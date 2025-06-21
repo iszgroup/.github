@@ -26,11 +26,12 @@ We architect intelligent systems that drive measurable business growth through:
 
 ## 🌏 Global Brands, Local Impact
 
-| Brand     | Region              | Focus                                                 |
-|-----------|---------------------|--------------------------------------------------------|
-| **AHK.AI**   | Europe & North America | Autonomous Agents, Intelligent Workflows               |
-| **HayateAI** | Japan                 | Chatbots, Process Automation, Multilingual Support     |
-| **ISZ.AI**   | Global (Hardware)     | Smart AI hardware, IoT integration, Embedded Intelligence |
+| Brand       | Region               | Focus                                                           |
+|-------------|----------------------|------------------------------------------------------------------|
+| [**AHK.AI**](https://ahk.ai)       | Europe & North America | Autonomous Agents, Intelligent Workflows                       |
+| [**HayateAI**](https://hayateai.com) | Japan                | Chatbots, Process Automation, Multilingual Support             |
+| [**ISZ.AI**](https://isz.ai)       | Global (Hardware)     | Smart AI hardware, IoT integration, Embedded Intelligence      |
+
 
 ---
 
